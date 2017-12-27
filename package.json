@@ -1,0 +1,16 @@
+{
+  "name": "parceltest",
+  "version": "1.0.0",
+  "description": "A little project to test the app bundler Parcel",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Daniel Lucas",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.6.1",
+    "node-sass": "^4.7.2",
+    "toasty": "^6.0.3"
+  }
+}
